@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+    font-family:  'Poppins',sans-serif;
+    font-style: normal;
+ }
+}
