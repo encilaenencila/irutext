@@ -101,7 +101,7 @@ function Home() {
 
 
 
-    <div className='w-full xl:h-screen md:h-screen h-auto bz-zinc-200 flex flex-col justify-between bg-[#080E2E]  '>
+    <div className='w-full  min-h-screen flex flex-col justify-between bg-[#080E2E]  '>
 
 
 
