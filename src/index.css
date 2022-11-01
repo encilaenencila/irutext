@@ -9,4 +9,17 @@
     font-family:  'Poppins',sans-serif;
     font-style: normal;
  }
+
+ textarea::-webkit-scrollbar {
+  width: 5px;
+ 
+}
+
+
+textarea::-webkit-scrollbar-thumb {
+ 
+background-color: white;
+outline: 1px solid #F1A166;
+border-radius: 10px;
+}
 }
